@@ -70,3 +70,6 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 4. Conclusion
 
 Acheived MAPE of 5.65% and MAE = $376 showing predictions of model is higly accurate for the sales forecast. Generated insights by EDA and feature importance provide valuable tools to decide the amount of budget and inventory for upcoming sales.
+
+
+![image](https://user-images.githubusercontent.com/114379464/234185296-4478f040-c11a-4375-a2a7-b0a638e3a9e7.png)

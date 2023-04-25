@@ -2,6 +2,9 @@
 
 Machine Learning Project type: Regression.
 
+![image](https://user-images.githubusercontent.com/114379464/234185158-69d9f49c-6845-4f2c-b541-2d18b803c69f.png)
+
+
 Sales forecasting is an approach retailers use to anticipate future sales by analyzing past sales, identifying trends, and projecting data into the future. Because retailers generate enormous amounts of data, machine learning technology quickly proves its value. When a machine learning system is fed data—the more, the better—it searches for patterns. Going forward, it can use the patterns it identifies within the data to make better decisions. For example, a company looked at their historical data for the last three years and found that sales have increased by 20% each year. Based on this information, they projected that sales would increase by 20% this year.
 
 

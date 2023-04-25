@@ -1,5 +1,7 @@
 # Capstone_Project_2_Retail_Sales_Prediction
-Regression.
+
+Machine Learning Project type: Regression.
+
 
 How to create a sales forecast:
 

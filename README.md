@@ -1,6 +1,6 @@
 # Capstone_Project_2_Retail_Sales_Prediction
 
-Machine Learning Project type: Regression.
+Machine Learning Project type: Regression. (Completed)
 
 ![image](https://user-images.githubusercontent.com/114379464/234185158-69d9f49c-6845-4f2c-b541-2d18b803c69f.png)
 
